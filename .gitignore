@@ -1,0 +1,14 @@
+# IDE
+.vscode
+.idea
+
+# Environment
+.env
+
+# Log
+*.log
+
+# Image
+*.png
+*.jpg
+*.jpeg
